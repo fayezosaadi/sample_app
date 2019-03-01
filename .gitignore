@@ -27,3 +27,6 @@
 /config/master.key
 
 .idea/
+
+# Ignore Spring files.
+/spring/*.pid
